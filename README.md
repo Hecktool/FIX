@@ -2,7 +2,7 @@
 
 $ apt update && apt upgrade
 
-$ git clone https://github.com/Bucin/FIX
+$ git clone https://github.com/Bucin404/FIX
 
 $ cd FIX
 
