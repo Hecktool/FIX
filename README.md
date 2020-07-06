@@ -8,7 +8,7 @@ $ cd FIX
 
 $ python2 setup.py
 
-$ python2 fix.py
+$ python2 fb.py
 
 
 
